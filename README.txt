@@ -1,0 +1,1 @@
+Example discussion classes in Stata
